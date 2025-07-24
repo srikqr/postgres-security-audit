@@ -2,7 +2,6 @@
   POSTGRESQL COMPLETE SECURITY & METADATA EXTRACTION SCRIPT
   Comprehensive A-Z Database Security Audit & Analysis
   Compatible with PostgreSQL 12+ - All Distributions
-  No Syntax Errors - Database Viewer Compatible
 ================================================================*/
 
 -- =====================================================
